@@ -6,3 +6,11 @@ Playground for learning the following technologies
 #. ReadTheDocs.org (open source documents hosting website)
 
 
+Before starting
+---------------
+
+    - Setup new GitHub repo
+    - clone locally
+    - add README.rst
+  
+  
