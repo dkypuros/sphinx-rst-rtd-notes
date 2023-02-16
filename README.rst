@@ -10,7 +10,7 @@ Playground for learning the following technologies
 The Purpose for Learning
 --------------------------
 
-My goal originally was to understand the foundational components of building an "environment" that is needed to deploy and manage Red Hat OpenShift. This include multiple deployment scenarios. 
+My goal originally was to understand the foundational components of building an "environment" that is needed to deploy and manage Red Hat OpenShift. Keep in mind there are many deployment scenarios for OpenShift. 
 
     - User Provisioned Infrastructure (UPI)
     - Installer Provisioned Infrastructure (IPI)
