@@ -37,7 +37,8 @@ This will be my place to take notes on how to document with Sphinx.
 
 Sphinx Training Materials
 ------------------------
+from Audrey
 
 https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
 
-test
+https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
