@@ -62,10 +62,11 @@ Python Setup
 
 These should be installed (I'm using Pythong3)
 
-.. code-block:: bash
+```
 python --version
 pip --version
 python3 -m pip install --user virtualenv
 cd /home/student/Documents/GitHub-files/openshift-lab-001
 python3 -m venv env
 source env/bin/activate
+```
