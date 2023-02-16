@@ -41,7 +41,7 @@ https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
 
 Part 1 
 -------
-Setup the a github repository to store project files
+Setup the a github repository to store project files. This is an easy step, so I'm not including many details.
 
     - Setup new GitHub repo 
     - clone locally
@@ -52,3 +52,14 @@ Completed!
 https://github.com/dkypuros/openshift-lab-001
 
 
+Part 2
+--------
+setup a local environment to generate the documentation.
+
+Python Setup
++++++++++++++
+
+```bash
+python --version
+pip --version
+```
