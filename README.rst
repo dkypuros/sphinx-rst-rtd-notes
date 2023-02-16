@@ -64,11 +64,11 @@ These should be installed (I'm using Python3)
 
 .. raw:: html
 
-    ```bash
-    
-   python --version
-   pip --version
-   python3 -m pip install --user virtualenv
-   cd /home/student/Documents/GitHub-files/openshift-lab-001
-   python3 -m venv env
-   source env/bin/activate
+```
+python --version
+pip --version
+python3 -m pip install --user virtualenv
+cd /home/student/Documents/GitHub-files/openshift-lab-001
+python3 -m venv env
+source env/bin/activate
+```
