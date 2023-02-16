@@ -29,8 +29,13 @@ The goal is to have a "Pocket Guide" of sorts that will help me save time in the
 
 Before starting
 ---------------
+This will be my place to take notes on how to document with Sphinx.
 
     - Setup new GitHub repo
     - clone locally
     - add README.rst
-  
+
+Training Material I'm Referencing from YouTube
+----------------------------------------------
+
+https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
