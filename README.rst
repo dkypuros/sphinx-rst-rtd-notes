@@ -39,8 +39,8 @@ Sphinx Training Materials from Audrey
 https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
 
 
-Part 1 
--------
+Part 1 - GitHub
+-----------------
 Setup the a github repository to store project files. This is an easy step, so I'm not including many details.
 
     - Setup new GitHub repo 
@@ -52,9 +52,10 @@ Completed!
 https://github.com/dkypuros/openshift-lab-001
 
 
-Part 2
---------
+Part 2 - Python & PIP
+-----------------------
 setup a local environment to generate the documentation.
+
 
 Python Setup
 +++++++++++++
