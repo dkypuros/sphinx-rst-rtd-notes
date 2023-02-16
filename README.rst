@@ -19,7 +19,7 @@ My goal originally was to understand the foundational components of building an 
 
 They all have one thing in common. They need an environment. 
 
-So in the pursuit of learning more about this pre-requisite environment, I discoverd the important of documenting the many many layer of the configuration in a way that I can come back to, and reference my personal documentation. It's a lot to remember! This led to my desire to learn the following:
+So in the pursuit of learning more about this pre-requisite environment, I discovered the importance of documenting the many many layer of the configuration in a way that I can come back to, and reference my personal documentation. It's a lot to remember! This led to my desire to learn the following:
 
     - Sphinx
     - ReStructured Text
