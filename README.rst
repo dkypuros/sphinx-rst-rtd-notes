@@ -60,8 +60,9 @@ setup a local environment to generate the documentation.
 Python Setup
 +++++++++++++
 
-These should be installed (I'm using Python3)::
+These should be installed (I'm using Python3)
 
+.. code-block:: bash
   python --version
   pip --version
   python3 -m pip install --user virtualenv
