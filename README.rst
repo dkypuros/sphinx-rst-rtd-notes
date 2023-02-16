@@ -1,4 +1,5 @@
-# Playground for learning the following technologies
+Playground for learning the following technologies
+===================================================
 
 #. Sphinx
 #. Restructured Text (feature rich Markdown type syntax)
