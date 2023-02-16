@@ -27,8 +27,7 @@ So in the pursuit of learning more about this pre-requisite environment, I disco
 
 The goal is to have a "Pocket Guide" of sorts that will help me save time in the future.
 
-Before starting
----------------
+.. admonition::Before starting
 
 There are (2) repositories
 
