@@ -64,7 +64,7 @@ These should be installed (I'm using Python3)
 
 .. raw:: html
 
-    ```bash`
+    ```bash
     
     python --version
     pip --version
