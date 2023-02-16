@@ -60,7 +60,7 @@ setup a local environment to generate the documentation.
 Python Setup
 +++++++++++++
 
-```
+``
 python --version
 pip --version
-```
+``
