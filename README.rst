@@ -60,7 +60,7 @@ setup a local environment to generate the documentation.
 Python Setup
 +++++++++++++
 
-These should be installed (I'm using Pythong3)::
+These should be installed (I'm using Python3)::
 
   python --version
   pip --version
