@@ -34,13 +34,21 @@ There are (2) repositories
 
 This will be my place to take notes on how to document with Sphinx. (1) This repository is called "sphinx-rst-rtd-notes". Keep in mind I will setup (2) another repository to actually create a sample sphinx project. This actual project repo is called "openshift-lab-001"
 
+Sphinx Training Materials from Audrey
+
+https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
+
+
+Part 1 
+-------
+Setup the a github repository to store project files
+
     - Setup new GitHub repo 
     - clone locally
     - add README.rst
+  
+Completed! 
 
-Sphinx Training Materials
-------------------------
-from Audrey
+https://github.com/dkypuros/openshift-lab-001
 
-https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
 
