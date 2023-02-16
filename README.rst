@@ -59,7 +59,7 @@ setup a local environment to generate the documentation.
 Python Setup
 +++++++++++++
 
-```bash
+.. code-block:: bash
 python --version
 pip --version
-```
+
