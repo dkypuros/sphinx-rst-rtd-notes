@@ -35,7 +35,7 @@ This will be my place to take notes on how to document with Sphinx.
     - clone locally
     - add README.rst
 
-Training Material I'm Referencing from YouTube
-----------------------------------------------
+Sphinx Training Material
+------------------------
 
 https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
