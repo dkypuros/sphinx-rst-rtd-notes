@@ -62,7 +62,9 @@ Python Setup
 
 These should be installed (I'm using Python3)
 
-    .. code-block:: bash
+.. raw:: html
+
+    ```bash`
     
     python --version
     pip --version
