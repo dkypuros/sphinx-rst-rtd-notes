@@ -32,3 +32,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel p
 **Project Flow and Diagram**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel purus vestibulum maximus. Ut quis eros mattis lacus efficitur vestibulum. Suspendisse potenti. Phasellus pulvinar lacus sit amet eros mattis, ac ullamcorper diam hendrerit. Suspendisse tincidunt augue in sapien pretium posuere
+
+![Architectural Flow](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/architectural-flows.png "Flows")
