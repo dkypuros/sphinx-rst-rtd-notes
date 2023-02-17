@@ -2,7 +2,7 @@
 
 [< back home](README.md)
 
-### About the project -> Why work on this?
+### About the project | Why work on this?
 
 **The Purpose for Learning**
 
@@ -23,13 +23,13 @@ So in the pursuit of learning more about this pre-requisite environment, I disco
 
 end
 
-### About the project -> Description of the technology
+### About the project | Description of the technology
 
 **The Technology**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel purus vestibulum maximus. Ut quis eros mattis lacus efficitur vestibulum. Suspendisse potenti. Phasellus pulvinar lacus sit amet eros mattis, ac ullamcorper diam hendrerit. Suspendisse tincidunt augue in sapien pretium posuere
 
-### About the project -> Project Flow
+### About the project | Project Flow
 
 **Project Flow and Diagram**
 
