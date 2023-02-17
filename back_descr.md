@@ -8,7 +8,7 @@
 
         -   Why work on this?
 
-* The Purpose for Learning *
+**The Purpose for Learning**
 
 My goal originally was to understand the foundational components of building an "environment" that is needed to deploy and manage Red Hat OpenShift. Keep in mind there are many deployment scenarios for OpenShift. 
 
