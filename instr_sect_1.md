@@ -1,9 +1,14 @@
+# Project instructions
+
 [< back home](README.md)
 
--   Project instructions (3 sections
+**File hosting GitHub configuration**
 
-    -   [File hosting: GitHub configuration](instr_sect_1.md)
+Create Repo: 
 
-        -   Great repo (for text and images)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
 
-        -   Clone locally (connect and sync)
+**File hosting: GitHub configuration**
+
+Create Clone locally
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam.
