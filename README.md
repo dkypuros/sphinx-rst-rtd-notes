@@ -2,7 +2,7 @@
 
 -   Project background and description
 
-    -   About the project
+    -   [About the project](about.md)
 
         -   Why work on this?
 
