@@ -31,6 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel p
 
 **Project Flow and Diagram**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel purus vestibulum maximus. Ut quis eros mattis lacus efficitur vestibulum. Suspendisse potenti. Phasellus pulvinar lacus sit amet eros mattis, ac ullamcorper diam hendrerit. Suspendisse tincidunt augue in sapien pretium posuere
+Starting from the **LEFT** Initially we're going to setup our local system to use GitHub as a file repository for our documentation files. On the **BOTTOM** we'll work on our files, review them locally. Once we're ready to publish them publically to see what our project will look like ont he web **RIGHT** we'll setup "readthedocs.org" to pull our files from GitHub and build a mini documentation website accordingly.
 
 ![Architectural Flow](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/architectural-flows.png "Flows")
