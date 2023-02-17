@@ -4,9 +4,7 @@
 
 -   [Project background and description](back_descr.md)
 
-    -   About the project
-
-        -   Why work on this?
+    -   About the project -> Why work on this?
 
 ===================================================
 **The Purpose for Learning**
@@ -28,7 +26,7 @@ So in the pursuit of learning more about this pre-requisite environment, I disco
 
 end
 
-        -   Description of the technology
+    -   About the project -> Description of the technology
 
 ===================================================
 **The Technology**
