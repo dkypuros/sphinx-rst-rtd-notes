@@ -1,8 +1,8 @@
 # Restructured Text, Sphinx, Read The Docs project notes
 
--   Project background and description
+-   [Project background and description](back_descr.md)
 
-    -   [About the project](about.md)
+    -   About the project
 
         -   Why work on this?
 
