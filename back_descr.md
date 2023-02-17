@@ -6,7 +6,6 @@
 
 ### About the project -> Why work on this?
 
-===================================================
 **The Purpose for Learning**
 
 My goal originally was to understand the foundational components of building an "environment" that is needed to deploy and manage Red Hat OpenShift. Keep in mind there are many deployment scenarios for OpenShift. 
@@ -28,16 +27,12 @@ end
 
 ### About the project -> Description of the technology
 
-===================================================
 **The Technology**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel purus vestibulum maximus. Ut quis eros mattis lacus efficitur vestibulum. Suspendisse potenti. Phasellus pulvinar lacus sit amet eros mattis, ac ullamcorper diam hendrerit. Suspendisse tincidunt augue in sapien pretium posuere
 
-    -   Project Flow
+### About the project -> Project Flow
 
-        -   Diagram
-
-===================================================
 **Project Flow and Diagram**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet risus vel purus vestibulum maximus. Ut quis eros mattis lacus efficitur vestibulum. Suspendisse potenti. Phasellus pulvinar lacus sit amet eros mattis, ac ullamcorper diam hendrerit. Suspendisse tincidunt augue in sapien pretium posuere
