@@ -2,8 +2,6 @@
 
 [< back home](README.md)
 
--   [Project background and description](back_descr.md)
-
 ### About the project -> Why work on this?
 
 **The Purpose for Learning**
