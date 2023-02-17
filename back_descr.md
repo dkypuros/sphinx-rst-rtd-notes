@@ -19,7 +19,7 @@ So in the pursuit of learning more about this pre-requisite environment, I disco
 
 So, a "sub-goal" then is to sharpen my documentatin skills, and my linux DDD skills in such a way that I can come back this when things aren't working correctly in OpenShift. 
 
-Sub-goal; to learn the following:
+**So my sub-goal is to learn the following documentation tools:**
 
 - Sphinx
 - ReStructured Text
