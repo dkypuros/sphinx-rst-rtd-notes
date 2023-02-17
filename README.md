@@ -1,5 +1,5 @@
-Playground for learning the following technologies
-===================================================
+# Playground for learning the following technologies
+
 
 .. contents:: Overview
 
@@ -7,8 +7,7 @@ Playground for learning the following technologies
 #. Restructured Text (feature rich Markdown type syntax)
 #. ReadTheDocs.org (open source documents hosting website)
 
-The Purpose for Learning
---------------------------
+## The Purpose for Learning
 
 My goal originally was to understand the foundational components of building an "environment" that is needed to deploy and manage Red Hat OpenShift. Keep in mind there are many deployment scenarios for OpenShift. 
 
@@ -39,8 +38,8 @@ Sphinx Training Materials from Audrey
 https://techwritingmatters.com/documenting-with-sphinx-tutorial-intro-overview
 
 
-Part 1 - GitHub
------------------
+## Part 1 - GitHub
+
 Setup the a github repository to store project files. This is an easy step, so I'm not including many details.
 
     - Setup new GitHub repo 
@@ -52,19 +51,18 @@ Completed!
 https://github.com/dkypuros/openshift-lab-001
 
 
-Part 2 - Python & PIP
------------------------
+## Part 2 - Python & PIP
+
 setup a local environment to generate the documentation.
 
 
-Python Setup
-+++++++++++++
+### Python Setup
+
 
 These should be installed (I'm using Python3)
 
-.. raw:: html
 
-```bash
+```
 python --version
 pip --version
 python3 -m pip install --user virtualenv
