@@ -13,9 +13,13 @@ My goal originally was to understand the foundational components of building an 
 - Assisted Installer from console.redhat.com
 - Agent-based Installer (magic ISO)
 
-They all have one thing in common. They need an environment. When I say environment, I mean routing and linux networking services such as DNS/DDNS, DHCP and Directory Services like IdM. Each of these services needs care and feeding, integration testing and tooling for troubleshooting. 
+They all have one thing in common. They need an environment. When I say environment, I mean routing and linux networking services such as DNS/DDNS, DHCP and Directory Services like IdM (DDD). Each of these services needs care and feeding, integration testing and tooling for troubleshooting. 
 
-So in the pursuit of learning more about this pre-requisite environment, I discovered the importance of documenting the many many layer of the configuration in a way that I can come back to, and reference my personal documentation. It's a lot to remember! This led to my desire to learn the following:
+So in the pursuit of learning more about this pre-requisite environment, I discovered the importance of documenting this "pre-environment" before digging deeper into Red Hat OCP. 
+
+So, a "sub-goal" then is to sharpen my documentatin skills, and my linux DDD skills in such a way that I can come back this when things aren't working correctly in OpenShift. 
+
+Sub-goal; to learn the following:
 
 - Sphinx
 - ReStructured Text
