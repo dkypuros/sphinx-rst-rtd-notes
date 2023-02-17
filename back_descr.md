@@ -10,7 +10,7 @@ My goal originally was to understand the foundational components of building an 
 
 - User Provisioned Infrastructure (UPI)
 - Installer Provisioned Infrastructure (IPI)
-- Assisted Service Installer frrom console.redhat.com
+- Assisted Installer from console.redhat.com
 - Agent-based Installer (magic ISO)
 
 They all have one thing in common. They need an environment. 
