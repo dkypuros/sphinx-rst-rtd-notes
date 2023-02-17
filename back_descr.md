@@ -29,7 +29,7 @@ So, a "sub-goal" then is to sharpen my documentatin skills, and my linux DDD ski
 
 **The Technology**
 
-We'll use git to host files. We'll use Python version 3 and pip to install Sphinx (free and open-source documentation generation tool). We'll use reStructuredText as a markup language. Sphinx will use this markup to create the documentation, and it output the documentation in HTML.
+We'll use git to host files. We'll use **Python** version 3 and **pip** to install **Sphinx** (free and open-source documentation generation tool). We'll use **reStructuredText** as a markup language. Sphinx will use this markup to create the documentation, and it output the documentation in HTML.
 
 As a small note: Sphinx is widely used in the Python community and is a powerful tool for creating high-quality documentation for projects of all sizes.
 
