@@ -6,7 +6,7 @@
 
 Check your versions of Python and PIP. 
 ```
-python --version
+python3 --version
 pip --version
 ```
 
@@ -22,6 +22,12 @@ Once you are in your virtual environment (look for parenthesis on the far left o
 ```
 mkdir docs
 pip install sphinx
+```
+
+Now we can use the quickstart utility. We enter values and configure sphinx locally. 
+
+```
+sphinx-quickstart
 ```
 
 **Test vanilla build process (make)**
