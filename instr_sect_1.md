@@ -13,5 +13,6 @@ Create Clone locally
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam.
 
 ```
+cd cd GitHub-projects/
 git clone https://github.com/dkypuros/openshift-lab-001.git
 ```
