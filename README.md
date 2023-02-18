@@ -16,7 +16,7 @@
 
     -   [File hosting: GitHub configuration](instr_sect_1.md)
 
-        -   Creat repo (for text and images)
+        -   Create repo (for text and images)
 
         -   Clone locally (connect and sync)
 
