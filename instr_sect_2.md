@@ -21,6 +21,7 @@ source env/bin/activate
 Once you are in your virtual environment (look for parenthesis on the far left of the command line) create a directory called **docs**. Next install the **Sphinx documentation generator** package via pip, the package installer for Python.
 ```
 mkdir docs
+cd docs
 pip install sphinx
 ```
 
