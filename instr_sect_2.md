@@ -4,11 +4,18 @@
 
 **Python and virtual environment, PIP, Sphinx**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
-
+Check your versions of Python and PIP. 
 ```
 python --version
 pip --version
+```
+
+Let's make sure we're in the correct directory. Next install the **venv module** if it is not already installed. Next create a new virtual environment in a directory called **env** using the **venv module**. Finally activate the virtual environment using the **source** command.
+```
+cd /home/student/Documents/GitHub-files/openshift-lab-001
+python3 -m pip install --user virtualenv
+python3 -m venv env
+source env/bin/activate
 ```
 
 **Test vanilla build process (make)**
