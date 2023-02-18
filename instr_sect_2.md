@@ -38,7 +38,7 @@ I used the following values to configure sphinx.
 > Project release []: 1
 > Project language [en]: en
 ```
-The quickstart print the following message to the screen once the values are set.
+**Sphinx Quickstart** prints the following message to the screen once the values are set.
 ```
 You should now populate your master file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/source/index.rst and create other documentation
 source files. Use the Makefile to build the docs, like so:
