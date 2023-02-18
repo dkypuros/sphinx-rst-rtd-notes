@@ -18,6 +18,12 @@ python3 -m venv env
 source env/bin/activate
 ```
 
+Once you are in your virtual environment (look for parenthesis on the far left of the command line) create a directory called **docs**. Next install the **Sphinx documentation generator** package via pip, the package installer for Python.
+```
+mkdir docs
+pip install sphinx
+```
+
 **Test vanilla build process (make)**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
