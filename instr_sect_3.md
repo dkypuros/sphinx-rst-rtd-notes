@@ -1,13 +1,22 @@
 [< back home](README.md)
 
--   Project instructions (3 sections
+# Documentation hosting: Publish documentation
 
-    -   [Documentation hosting: Publish documentation](instr_sect_3.md)
+**Upload local environment to GitHub (file hosting)*
 
-        -   Upload local environment to GitHub (file hosting)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
 
-            -   Ignore certain files
 
-        -   Read The Docs configuration (build)
+**-->Ignore certain files
 
-        -   Review the documentation on "Read The Docs"
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+
+
+**Read The Docs configuration (build)*
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+
+
+**Review the documentation on "Read The Docs"*
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
