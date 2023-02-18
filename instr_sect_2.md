@@ -50,6 +50,9 @@ So for me the command I will use from this summary is
 ```
 make html
 ```
+Take a look around and explore the new directory structure and files created during the **quickstart** process.
+
+![Directory Structure(https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-sphinx-directory-structure.png "Structure")
 
 **Test vanilla build process (make)**
 
