@@ -28,7 +28,22 @@ pip install sphinx
 Now we can use the quickstart utility. We enter values and configure sphinx locally. 
 
 ```
-sphinx-quickstart
+sphinx-quickstart to initialize the directory structure.
+```
+I used the following values to configure sphinx.
+```
+>Separate source and build directories (y/n) [n]: y
+>Project name: openshift-lab-001
+> Author name(s): David Kypuros
+> Project release []: 1
+> Project language [en]: en
+```
+The quickstart print the following message to the screen once the values are set.
+```
+You should now populate your master file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/source/index.rst and create other documentation
+source files. Use the Makefile to build the docs, like so:
+   make builder
+where "builder" is one of the supported builders, e.g. html, latex or linkcheck.
 ```
 
 **Test vanilla build process (make)**
