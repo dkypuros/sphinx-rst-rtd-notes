@@ -1,6 +1,6 @@
 [< back home](README.md)
 
-# Documentation hosting: Publish documentation
+# 3. Documentation hosting: Publish documentation
 
 **Upload local environment to GitHub (file hosting)**
 
