@@ -132,7 +132,7 @@ html_static_path = ['_static']
 ```
 Here is the new look!
 
-![Here is the look of the new theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-theme.png "New Look")
+![Here is the look of the new theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-theme.png "New Look")
 
 **Test custom HTML theme (e.g. ReadTheDocs.org Theme)**
 
