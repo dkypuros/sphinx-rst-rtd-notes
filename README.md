@@ -20,7 +20,7 @@
 
         -   Clone locally (connect and sync)
 
-    -   [Local dev and test: Create and build local environment (cloned folder)](instr_sect_2.md)
+    -   [2.Local dev and test: Create and build local environment (cloned folder)](instr_sect_2.md)
 
         -   Python and virtual environment, PIP, Sphinx
 
@@ -34,7 +34,7 @@
 
         -   Review project locally
 
-    -   [Documentation hosting: Publish documentation](instr_sect_3.md)
+    -   [3. Documentation hosting: Publish documentation](instr_sect_3.md)
 
         -   Upload local environment to GitHub (file hosting)
 
@@ -44,7 +44,7 @@
 
         -   Review the documentation on "Read The Docs"
     
-    -   [Documentation refinement: expanding our use or restructured text](instr_sect_4.md)
+    -   [4. Documentation refinement: expanding our use or restructured text](instr_sect_4.md)
 
         -   edit ".rst" files to start building sample restructured text files
 
