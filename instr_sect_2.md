@@ -149,6 +149,7 @@ html_theme = 'sphinx_rtd_theme'
 
 Here is the Read The Docs theme
 
+![theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-theme.png "New Look")
 ![Read The Docs Theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-theme.png "Read The Docs)
 
 **Create full restructured text document**
