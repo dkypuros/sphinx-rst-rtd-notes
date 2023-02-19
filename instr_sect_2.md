@@ -93,11 +93,6 @@ Indices and tables
 Let's **change** the file by removing some of the "indices" and stuff. See the smaller file below:
 
 ```rst
-.. openshift-lab-001 documentation master file, created by
-   sphinx-quickstart on Sat Feb 18 08:15:25 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 David's documentation!
 =============================================
 
