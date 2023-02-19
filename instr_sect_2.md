@@ -130,12 +130,26 @@ Get the name of the included theme, and open up the **conf.py**. Change the bott
 html_theme = 'pyramid'
 html_static_path = ['_static']
 ```
+Here is the new look!
 
 ![Here is the look of the new theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-theme.png "New Look")
 
-**Test customer HTML theme**
+**Test custom HTML theme (e.g. ReadTheDocs.org Theme)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+Run the following commands to install the theme:
+
+```bash
+pip install sphinx-rtd-theme
+```
+Now configure **conf.py** to reflect the following configuration line near the end of the file.
+
+```bash
+html_theme = 'sphinx_rtd_theme'
+```
+
+Here is the result
+
+![Read The Docs Theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-theme.png "Read The Docs)
 
 **Create full restructured text document**
 
