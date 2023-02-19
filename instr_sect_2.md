@@ -90,6 +90,22 @@ Indices and tables
 
 ```
 
+Let's **change** the file by removing some of the "indices" and stuff. See the smaller file below:
+
+```
+.. openshift-lab-001 documentation master file, created by
+   sphinx-quickstart on Sat Feb 18 08:15:25 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+David's documentation!
+=============================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+```
+
 **Test vanilla build process (make)**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
