@@ -120,7 +120,9 @@ After making minor changes to the **index.rst** and running **make html** we can
 
 **Test different HTML themes (included)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+Check the sphinx website to review options for **themes**. Let's focus on the themes included with Sphinx first.
+
+[Site](https://www.sphinx-doc.org/en/master/usage/theming.html)
 
 **Test customer HTML theme**
 
