@@ -114,6 +114,10 @@ Here is the what the output should look like:
 
 ![Make](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/make.png "Make HTML command")
 
+After making minor changes to the **index.rst** and running **make html** we can simple website consisting of one HTML file.
+
+![HTML](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/first-html.png "Simple HTML page")
+
 **Test different HTML themes (included)**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
