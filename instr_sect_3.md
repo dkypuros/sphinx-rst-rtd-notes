@@ -18,7 +18,7 @@ docs/source/_template/
 
 **Read The Docs configuration (build)**
 
-Lorem ipsum 
+Visit the following site [readthedocs.org](https://readthedocs.org/)
 
 
 **Review the documentation on "Read The Docs"**
