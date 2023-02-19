@@ -122,7 +122,7 @@ After making minor changes to the **index.rst** and running **make html** we can
 
 Check the sphinx website to review options for **themes**. Let's focus on the themes included with Sphinx first.
 
-[Site](https://www.sphinx-doc.org/en/master/usage/theming.html)
+[Sphinx HTML Theme Website ⊂(◉‿◉)つ ](https://www.sphinx-doc.org/en/master/usage/theming.html)
 
 **Test customer HTML theme**
 
