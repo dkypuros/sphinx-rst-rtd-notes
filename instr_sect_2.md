@@ -66,7 +66,7 @@ Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/do
 
 File located in "/docs/source/index.rst"
 
-```
+```rst
 .. openshift-lab-001 documentation master file, created by
    sphinx-quickstart on Sat Feb 18 08:15:25 2023.
    You can adapt this file completely to your liking, but it should at least
