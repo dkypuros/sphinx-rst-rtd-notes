@@ -52,6 +52,14 @@ make html
 ```
 Take a look around and explore the new directory structure and files created during the **quickstart** process. Notice the two folders **build** and **source**. That's the seperation of the of the source and build directories we selected earlier in the process.
 
+see output here and the image below:
+```
+Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/source/conf.py.
+Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/source/index.rst.
+Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/Makefile.
+Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/make.bat.
+```
+
 ![Directory Structure](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-sphinx-directory-structure.png "Structure")
 
 **Test vanilla build process (make)**
