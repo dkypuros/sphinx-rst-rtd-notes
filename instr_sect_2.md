@@ -105,7 +105,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis tempus ex
 
 **Test vanilla build process (make)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+Initiate the **make** process to allow Sphinx to build all of the html files.
+
+```bash
+make html
+```
+![Make](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/mnake.png "Make HTML command")
 
 **Test different HTML themes (included)**
 
