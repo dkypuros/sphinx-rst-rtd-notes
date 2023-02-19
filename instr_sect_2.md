@@ -62,6 +62,34 @@ Creating file /Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/do
 
 ![Directory Structure](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-sphinx-directory-structure.png "Structure")
 
+**Exploring the 'homepage' for restructured text**
+
+File located in "/docs/source/index.rst"
+
+```
+.. openshift-lab-001 documentation master file, created by
+   sphinx-quickstart on Sat Feb 18 08:15:25 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to openshift-lab-001's documentation!
+=============================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+```
+
 **Test vanilla build process (make)**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
