@@ -1,4 +1,4 @@
-# Local dev and test: Create and build local environment (cloned folder)
+# 2. Local dev and test: Create and build local environment (cloned folder)
 
 [< back home](README.md)
 
