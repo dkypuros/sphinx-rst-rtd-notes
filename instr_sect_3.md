@@ -4,13 +4,7 @@
 
 **Upload local environment to GitHub (file hosting)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+Lorem ipsum 
 
 **-->Ignore certain files**
 
@@ -22,12 +16,11 @@ docs/build/
 docs/source/_template/
 ```
 
-
 **Read The Docs configuration (build)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+Lorem ipsum 
 
 
 **Review the documentation on "Read The Docs"**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+Lorem ipsum 
