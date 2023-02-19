@@ -14,7 +14,7 @@
 
 -   Project instructions (4 sections)
 
-    -   [File hosting: GitHub configuration](instr_sect_1.md)
+    -   [1. File hosting: GitHub configuration](instr_sect_1.md)
 
         -   Create repo (for text and images)
 
