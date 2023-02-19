@@ -147,7 +147,7 @@ Now configure **conf.py** to reflect the following configuration line near the e
 html_theme = 'sphinx_rtd_theme'
 ```
 
-Here is the result
+Here is the Read The Docs theme
 
 ![Read The Docs Theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-theme.png "Read The Docs)
 
