@@ -114,7 +114,7 @@ Here is the what the output should look like:
 
 ![Make](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/make.png "Make HTML command")
 
-After making minor changes to the **index.rst** and running **make html** we can simple website consisting of one HTML file.
+After making minor changes to the **index.rst** and running **make html** we can simple website consisting of one HTML file. Notice, even with onlh one page, the website is fully searchable. Search for **David** in the search box. It works!
 
 ![HTML](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/first-html.png "Simple HTML page")
 
