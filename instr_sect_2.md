@@ -110,7 +110,7 @@ Initiate the **make** process to allow Sphinx to build all of the html files.
 ```bash
 make html
 ```
-![Make](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/mnake.png "Make HTML command")
+![Make](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/make.png "Make HTML command")
 
 **Test different HTML themes (included)**
 
