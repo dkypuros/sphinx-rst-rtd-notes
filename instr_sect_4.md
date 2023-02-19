@@ -1,6 +1,6 @@
 [< back home](README.md)
 
-# Documentation refinement: expanding our use or restructured text
+# 4. Documentation refinement: expanding our use or restructured text
 
 **edit ".rst" files to start building sample restructured text files**
 
