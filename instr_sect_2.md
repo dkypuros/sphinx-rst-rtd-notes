@@ -118,11 +118,24 @@ After making minor changes to the **index.rst** and running **make html** we can
 
 ![HTML](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/first-html.png "Simple HTML page")
 
-**Test different HTML themes (included)**
+**Test the included HTML themes)**
 
 Check the sphinx website to review options for **themes**. Let's focus on the themes included with Sphinx first.
 
 [Sphinx HTML Theme Website ⊂(◉‿◉)つ ](https://www.sphinx-doc.org/en/master/usage/theming.html)
+
+Get the name of the included theme, and open up the **conf.py**. Change the bottom of the **conf.py** file to match the following text below:
+
+```bash
+html_theme = 'classic'
+html_static_path = ['_static']
+
+html_theme_options = {
+    "rightsidebar": "true",
+    "relbarbgcolor": "black"
+}
+```
+
 
 **Test customer HTML theme**
 
