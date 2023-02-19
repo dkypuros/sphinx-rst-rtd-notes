@@ -127,15 +127,11 @@ Check the sphinx website to review options for **themes**. Let's focus on the th
 Get the name of the included theme, and open up the **conf.py**. Change the bottom of the **conf.py** file to match the following text below:
 
 ```bash
-html_theme = 'classic'
+html_theme = 'pyramid'
 html_static_path = ['_static']
-
-html_theme_options = {
-    "rightsidebar": "true",
-    "relbarbgcolor": "black"
-}
 ```
 
+![Here is the look of the new theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/new-theme.png "New Look")
 
 **Test customer HTML theme**
 
