@@ -90,11 +90,13 @@ Indices and tables
 
 ```
 
-Let's **change** the file by removing some of the "indices" and stuff. See the smaller file below:
+Let's **change** the file by removing some of the "indices" and adding some "Lorem Ipsum" placeholder text. See the smaller file below:
 
 ```rst
 David's documentation!
 =============================================
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis tempus ex, eget posuere orci fringilla ac. Vivamus sagittis eget diam sit amet varius. Cras ligula odio, aliquam consectetur tellus ac, porttitor porttitor massa. Proin mi risus, facilisis ut varius eget, aliquet a lacus. Vestibulum et augue justo. Pellentesque a lorem ex. Nulla facilisis, nisl eu vehicula semper, ex mi aliquet est, in rutrum dolor ex et dolor.
 
 .. toctree::
    :maxdepth: 2
