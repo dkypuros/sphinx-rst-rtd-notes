@@ -1,4 +1,4 @@
-# File hosting: GitHub configuration
+# 1. File hosting: GitHub configuration
 
 [< back home](README.md)
 
