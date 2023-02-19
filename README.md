@@ -12,7 +12,7 @@
 
         -   Diagram
 
--   Project instructions (3 sections)
+-   Project instructions (4 sections)
 
     -   [File hosting: GitHub configuration](instr_sect_1.md)
 
@@ -43,3 +43,8 @@
         -   Read The Docs configuration (build)
 
         -   Review the documentation on "Read The Docs"
+    
+    -   [Documentation refinement: expanding our use or restructured text](instr_sect_4.md)
+
+        -   edit ".rst" files to start building sample restructured text files
+
