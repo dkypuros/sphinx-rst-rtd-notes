@@ -151,10 +151,12 @@ Here is the Read The Docs theme
 
 ![Read The Docs Theme](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-theme.png "Read The Docs")
 
-**Create full restructured text document**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+**We will put off** making a full restructured text file. Let's continue connecting up the entire environment to ReadTheDocs.org.
 
 **Review project locally**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam. 
+The website can be viewed here in your browser. The sphinx application places the build't files in this folder "docs/build/html"
+
+```
+file:///Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/build/html/index.html
+```
