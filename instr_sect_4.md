@@ -140,8 +140,14 @@ Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, ve
 Once these changes our made to our OpenShift repo, we can build new html pages, and push them to the GitHub repo.
 (replace '1' with a comment)
 
+To do a quick view locally:
+
 ```bash
 make html
+```
+Continue to push updates to GitHub, and after 10 - 20 seconds ReadTheDocs.org will update via a webhook.
+
+```bash
 git add .
 git commit -m "1"
 git push
