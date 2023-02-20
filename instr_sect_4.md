@@ -55,3 +55,55 @@ Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, ve
 ```
 
 Throughout this section, we can continually take a peak at the results here [https://openshift-lab-001.readthedocs.io/](https://openshift-lab-001.readthedocs.io/en/latest/)
+
+
+Let's add a few pages as "sub pages" or lower than the index.rst file. You can also do this in VSCode too.
+
+```bash
+cd docs/source/
+touch page1.rst
+touch page2.rst
+```
+
+Now, go to vscode and paste the following code for page 1 and page 2. Note the top of the code, we've added a bookmark thingy to name the pages.
+
+**page1**
+```rst
+.. _page1:
+
+sub-page 1 
+============================
+
+Sub heading. Fusce convallis ligula facilisis
+---------------------------------------------
+Arius in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus.
+
+* Vivamus nisl felis, iaculis in ante eu
+* eleifend sodales enim. Vivamus id velit dictum
+* ehicula velit
+```
+**page2**
+```rst
+.. _page2:
+
+sub-page 2 
+============================
+
+Sub heading. Fusce convallis ligula facilisis
+---------------------------------------------
+Arius in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus.
+
+* Vivamus nisl felis, iaculis in ante eu
+* eleifend sodales enim. Vivamus id velit dictum
+* ehicula velit
+
+```
+
+
+
+
+
+
+
+
+
