@@ -34,6 +34,8 @@ Here is what the next page should look like:
 
 Now you're ready to select **build** to pull the docs from GitHub and publish them in ReadTheDocs.org. Once the build is complete, select "View Docs" in the top right corner of the build success page.
 
+**Review the documentation on "Read The Docs"**
+
 My page is now visable on ReadTheDoc's public hosting website.
 
 [http://openshift-lab-001.readthedocs.io/](https://openshift-lab-001.readthedocs.io/en/latest/)
@@ -41,9 +43,4 @@ My page is now visable on ReadTheDoc's public hosting website.
 Here is a screenshot of the public site.
 
 ![Public Site](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/published-site-first-time.png)
-
-**Review the documentation on "Read The Docs"**
-
-Lorem ipsum 
-
 
