@@ -29,9 +29,10 @@ Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, ve
 ```
 
 **Because we have a link to an image let's create that folder and updload our image**
+The folder is placed in the "source" folder, but whatever is put in here is eventually copied in the "docs/build/html/_images" area. Source and Build are in different folders.
 
 ```bash
-mkdir /images
+mkdir /docs/source/images
 ```
 
 Let's upload a silly ".png" file and grab the link.
