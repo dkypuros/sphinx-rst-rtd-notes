@@ -151,10 +151,7 @@ Continue to push updates to GitHub, and after 10 - 20 seconds ReadTheDocs.org wi
 git add .
 git commit -m "1"
 git push
-``
-
-
-
+```
 
 
 
