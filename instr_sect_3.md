@@ -27,6 +27,9 @@ Look for the following project and select the "plus sign" next to the repo path.
 ```bash
 dkypuros/openshift-lab-001
 ```
+
+Here is what the next page should look like:
+
 ![Read The Docs Build Page](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/build.png "Read the Docs build page")
 
 **Review the documentation on "Read The Docs"**
