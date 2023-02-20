@@ -32,7 +32,11 @@ Here is what the next page should look like:
 
 ![Read The Docs Build Page](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/build.png "Read the Docs build page")
 
-Now you're ready to select **build** to pull the docs from GitHub and publish them in ReadTheDocs.org.
+Now you're ready to select **build** to pull the docs from GitHub and publish them in ReadTheDocs.org. Once the build is complete, select "View Docs" in the top right corner of the build success page.
+
+My page is now visable on ReadTheDoc's public hosting website.
+
+[openshift-lab-001.readthedocs.io/en/latest/](https://openshift-lab-001.readthedocs.io/en/latest/)
 
 **Review the documentation on "Read The Docs"**
 
