@@ -36,7 +36,7 @@ Now you're ready to select **build** to pull the docs from GitHub and publish th
 
 My page is now visable on ReadTheDoc's public hosting website.
 
-[openshift-lab-001.readthedocs.io/en/latest/](https://openshift-lab-001.readthedocs.io/en/latest/)
+[http://openshift-lab-001.readthedocs.io/](https://openshift-lab-001.readthedocs.io/en/latest/)
 
 **Review the documentation on "Read The Docs"**
 
