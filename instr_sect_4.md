@@ -60,27 +60,35 @@ Now, go to vscode and paste the following code for page 1 and page 2. Note the t
 
 **page1**
 ```rst
-.. _page1:
+.. _Section1:
 
-sub-page 1 
+Section 1
 ============================
 
-Sub heading. Fusce convallis ligula facilisis
+Creating a mindmap
 ---------------------------------------------
 Arius in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus.
 
 * Vivamus nisl felis, iaculis in ante eu
 * eleifend sodales enim. Vivamus id velit dictum
 * ehicula velit
+
+Moving toward a new vision
+---------------------------------------------
+Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget
+
+Now that we've finished here click next to continue ore click here, :ref:`My Personal Map <section2>` to start developing your map.
 ```
+
+
 **page2**
 ```rst
-.. _page2:
+.. _Section2:
 
-sub-page 2 
+Section 2
 ============================
 
-Sub heading. Fusce convallis ligula facilisis
+Now where do develop the map
 ---------------------------------------------
 Arius in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus.
 
@@ -88,45 +96,12 @@ Arius in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta l
 * eleifend sodales enim. Vivamus id velit dictum
 * ehicula velit
 
+Practice excercises
+---------------------------------------------
+Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget,
 ```
 
-Now we can update our index.rst file to include a "toctree" or Table of Contents directive that references the file "page1.rst" and ":ref:" insertion that uses the bookmark like syntax at the top of the "page1.rst" file (aka .. _page1:)
-
-Add this to the bottom of "index.rst"
-
-```rst
-My documentation home page
-============================
-
-Sub heading. Fusce convallis ligula facilisis
----------------------------------------------
-Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus. https://www.google.com
-
-* :ref: <page1> Page 1 of the documentation is great.
-* eleifend sodales enim. Vivamus id velit dictum
-* ehicula velit
-
-
-Sub heading. Fusce convallis ligula facilisis
----------------------------------------------
-Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus. Vivamus nisl felis, iaculis in ante eu, eleifend sodales enim. Vivamus id velit dictum, vehicula velit a, dapibus risus. Vivamus tempor viverra vehicula. https://www.google.com
-
-.. figure:: /images/ritz.png
-   :alt: Ritz for life image
-   :scale: 80 %
-   *Ritz is an italics type of snack*
-   
-
-1. Vivamus nisl felis, iaculis in ante eu
-2. eleifend sodales enim. Vivamus id velit dictum
-3. ehicula velit
-
-.. toctree:: 
-   :maxdepth: 2
-   :caption: Contents:
-
-   page1
-```
+**These are the quick steps to iterate locally and publish to RTD**
 
 Once these changes our made to our OpenShift repo, we can build new html pages, and push them to the GitHub repo.
 (replace '1' with a comment)
