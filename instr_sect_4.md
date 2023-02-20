@@ -4,56 +4,46 @@
 
 **edit ".rst" files to start building sample restructured text files**
 
-Let's edit **index.rst**
+Let's updater the **index.rst**
 
 ```rst
 My documentation home page
 ============================
 
-Sub heading. Fusce convallis ligula facilisis
+Example Sub heading
 ---------------------------------------------
-Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in **gravida** eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus. https://www.google.com
+Arius **gravida** eget, venenatis non massa. Donec quis mi. Integer ut elementum metus. https://www.google.com
 
-* Vivamus nisl felis, iaculis in ante eu
-* eleifend sodales enim. Vivamus id velit dictum
-* ehicula velit
+* item 1
+* item 2
 
+.. figure:: images/ritz.png
+      :alt: Ritz for life image
+      :scale: 40 %
 
-Sub heading. Fusce convallis ligula facilisis
----------------------------------------------
-Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus. Vivamus nisl felis, iaculis in ante eu, eleifend sodales enim. Vivamus id velit dictum, vehicula velit a, dapibus risus. Vivamus tempor viverra vehicula. https://www.google.com
-
-1. Vivamus nisl felis, iaculis in ante eu
-2. eleifend sodales enim. Vivamus id velit dictum
-3. ehicula velit
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Table of Contents:
+   
+   page1
+   page2
 ```
 
-**Because we have a link to an image let's create that folder and updload our image**
-The folder is placed in the "source" folder, but whatever is put in here is eventually copied in the "docs/build/html/_images" area. Source and Build are in different folders.
+**Let's go back and add the ritz image**
+
+Create a folder in the "source" folder for images. Keep in mind this folder gets copied to the "docs/build/html/_images" area via "make html".
 
 ```bash
 mkdir /docs/source/images
 ```
 
-Let's upload a silly ".png" file and grab the link.
+Grab a silly ".png" file and place it in the folder. I used this [photo](![image](https://user-images.githubusercontent.com/363856/220183710-8210386e-ff97-49d0-bcca-7c18c92d6c36.png)
+) Make sure it's in the correct folder. See below.
 
 ```bash
-https://github.com/dkypuros/openshift-lab-001/blob/main/images/ritz.png
+/docs/source/images/ritz.png
 ```
-
-***Now we can update the file above by embedding a link***
-
-```rst
-Sub heading. Fusce convallis ligula facilisis
----------------------------------------------
-Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, venenatis non massa. Donec quis mi malesuada, porta lorem in, tristique ipsum. Integer ut elementum metus. Vivamus nisl felis, iaculis in ante eu, eleifend sodales enim. Vivamus id velit dictum, vehicula velit a, dapibus risus. Vivamus tempor viverra vehicula. https://www.google.com
-
-.. figure:: /images/ritz.png
-   :alt: Ritz for life image
-   :scale: 80 %
-   *Ritz is an italics type of snack*
-   
-```
+**View the new "index.rst"**
 
 Throughout this section, we can continually take a peak at the results here [https://openshift-lab-001.readthedocs.io/](https://openshift-lab-001.readthedocs.io/en/latest/)
 
