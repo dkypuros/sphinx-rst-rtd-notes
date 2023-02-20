@@ -32,6 +32,8 @@ Here is what the next page should look like:
 
 ![Read The Docs Build Page](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/build.png "Read the Docs build page")
 
+Now you're ready to select **build** to pull the docs from GitHub and publish them in ReadTheDocs.org.
+
 **Review the documentation on "Read The Docs"**
 
 Lorem ipsum 
