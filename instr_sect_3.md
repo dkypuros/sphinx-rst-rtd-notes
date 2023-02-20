@@ -38,6 +38,10 @@ My page is now visable on ReadTheDoc's public hosting website.
 
 [http://openshift-lab-001.readthedocs.io/](https://openshift-lab-001.readthedocs.io/en/latest/)
 
+Here is a screenshot of the public site.
+
+![Public Site](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/published-site-first-time.png)
+
 **Review the documentation on "Read The Docs"**
 
 Lorem ipsum 
