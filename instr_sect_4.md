@@ -137,6 +137,15 @@ Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, ve
    page1
 ```
 
+Once these changes our made to our OpenShift repo, we can build new html pages, and push them to the GitHub repo.
+(replace '1' with a comment)
+
+```bash
+make html
+git add .
+git commit -m "1"
+git push
+``
 
 
 
