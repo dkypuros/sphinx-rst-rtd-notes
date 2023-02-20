@@ -22,7 +22,11 @@ Visit the following site [readthedocs.org](https://readthedocs.org/) and [login]
 
 ![Login Screen](https://github.com/dkypuros/sphinx-rst-rtd-notes/blob/main/images/read-the-docs-login.png "Login Screen")
 
+Look for the following project and select the "plus sign" next to the repo path. Leave the defaults in the **Project Details** page and click **next**. 
 
+```bash
+dkypuros/openshift-lab-001
+```
 **Review the documentation on "Read The Docs"**
 
 Lorem ipsum 
