@@ -140,7 +140,7 @@ Arius urna vitae, rhoncus dolor. Fusce ipsum tellus, aliquam in gravida eget, ve
 Once these changes our made to our OpenShift repo, we can build new html pages, and push them to the GitHub repo.
 (replace '1' with a comment)
 
-To do a quick view locally:
+To do a quick view locally (this will differ if you have multiple systems your using to test/dev) :
 
 ```bash
 make html
