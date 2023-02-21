@@ -7,6 +7,11 @@
 Create Repo: 
 This is an easy step for me. Go to GitHub and create ampty repo. Select "no README.MD" and choose ".gitignore" and select Python.
 
+Name of repo in this example.
+```
+sphinx-rst-rtd-sample-project
+```
+
 **Clone locally (connect and sync)**
 
 Create Clone locally
