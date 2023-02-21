@@ -33,7 +33,7 @@ sphinx-quickstart
 I used the following values to configure sphinx.
 ```
 >Separate source and build directories (y/n) [n]: y
->Project name: openshift-lab-001
+>Project name: sphinx-RTD-sample-project
 > Author name(s): David Kypuros
 > Project release []: 1
 > Project language [en]: en
