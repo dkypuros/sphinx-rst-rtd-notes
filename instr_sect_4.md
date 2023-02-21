@@ -59,7 +59,9 @@ touch page2.rst
 Now, go to vscode and paste the following code for page 1 and page 2. Note the top of the code, we've added a bookmark thingy to name the pages.
 
 **page1**
+
 ```rst
+
 .. _Section1:
 
 Section 1
@@ -82,7 +84,9 @@ Now that we've finished here click next to continue ore click here, :ref:`My Per
 
 
 **page2**
+
 ```rst
+
 .. _Section2:
 
 Section 2
@@ -123,6 +127,7 @@ git push
 **Here are a final set of files to show reST syntax**
 
 ```rst
+
 My documentation home page
 ============================
 
@@ -148,6 +153,7 @@ Arius **gravida** eget, venenatis non massa. Donec quis mi. Integer ut elementum
 **page 1**
 
 ```rst
+
 .. _Section1:
 
 Section 1
@@ -175,7 +181,8 @@ Don't forget about the .. :ref:`practice excercises section! <practice>`
 
 **page 2**
 
-``rst
+```rst
+
 .. _Section2:
 
 Section 2
