@@ -124,7 +124,7 @@ git push
 ```
 
 
-**Here are a final set of files to show reST syntax**
+**Here are a final set of files to show reStructuredText syntax**
 
 ```rst
 
