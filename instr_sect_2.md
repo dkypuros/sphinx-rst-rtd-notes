@@ -28,7 +28,7 @@ pip install sphinx
 Now we can use the quickstart utility. We enter values and configure sphinx locally. 
 
 ```
-sphinx-quickstart to initialize the directory structure.
+sphinx-quickstart
 ```
 I used the following values to configure sphinx.
 ```
