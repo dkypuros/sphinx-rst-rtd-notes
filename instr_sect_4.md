@@ -37,11 +37,10 @@ Create a folder in the "source" folder for images. Keep in mind this folder gets
 mkdir /docs/source/images
 ```
 
-Grab a silly ".png" file and place it in the folder. I used this [photo](![image](https://user-images.githubusercontent.com/363856/220183710-8210386e-ff97-49d0-bcca-7c18c92d6c36.png)
-) Make sure it's in the correct folder. See below.
+Grab a silly ".jpg" file and place it in the folder. Make sure it's in the correct folder. See below.
 
 ```bash
-/docs/source/images/ritz.png
+/docs/source/images/ritz.jpg
 ```
 **View the new "index.rst"**
 
@@ -138,7 +137,7 @@ Arius **gravida** eget, venenatis non massa. Donec quis mi. Integer ut elementum
 * item 1
 * item 2
 
-.. figure:: images/ritz.png
+.. figure:: images/ritz.jpg
       :alt: Ritz for life image
       :scale: 40 %
 
@@ -171,7 +170,7 @@ Moving toward a new vision
 ---------------------------------------------
 Arius urna vitae, rhoncus dolor. Fusce **new button** |newbutton| tellus, aliquam in gravida eget
 
-.. |newbutton| image:: images/ritz.png
+.. |newbutton| image:: images/ritz.jpg
                :scale: 10 %
 
 Now that we've finished here click next to continue ore click here, :ref:`My Personal Map <section2>` to start developing your map.
