@@ -12,7 +12,7 @@ pip --version
 
 Let's make sure we're in the correct directory. Next install the **venv module** if it is not already installed. Next create a new virtual environment in a directory called **env** using the **venv module**. Finally activate the virtual environment using the **source** command.
 ```
-cd /home/student/Documents/GitHub-files/openshift-lab-001
+cd sphinx-RTD-sample-project/
 python3 -m pip install --user virtualenv
 python3 -m venv env
 source env/bin/activate
