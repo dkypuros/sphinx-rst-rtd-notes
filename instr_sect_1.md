@@ -5,7 +5,7 @@
 **Create repo (for text and images)**
 
 Create Repo: 
-This is an easy step for me. Go to GitHub and create ampty repo. [GitHub Repo](https://github.com/dkypuros/openshift-lab-001)
+This is an easy step for me. Go to GitHub and create ampty repo. Select "no README.MD" and choose ".gitignore" and select Python.
 
 **Clone locally (connect and sync)**
 
