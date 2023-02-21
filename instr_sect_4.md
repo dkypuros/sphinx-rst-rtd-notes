@@ -125,6 +125,8 @@ git push
 
 **Here are a final set of files to show reStructuredText syntax**
 
+**index.rst**
+
 ```rst
 
 My documentation home page
