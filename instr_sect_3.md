@@ -3,17 +3,14 @@
 # 3. Documentation hosting: Publish documentation
 
 **Upload local environment to GitHub (file hosting)**
+These are the steps to publish your local sphinx site to ReadTheDocs.
 
-Lorem ipsum 
-
-**-->Ignore certain files**
-
-make ".gitignore"
+**Ignore certain files**
+Let's make sure the following was added to your "phython" gitignore file.
 
 ```bash
-.DS_Store
-docs/build/
-docs/source/_template/
+# Sphinx documentation
+docs/_build/
 ```
 
 **Read The Docs configuration (build)**
