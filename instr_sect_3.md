@@ -13,7 +13,7 @@ Let's make sure the following was added to your "phython" gitignore file.
 docs/_build/
 ```
 
-**Read The Docs configuration (build)**
+**Go to `Readthedocs.org` and set the build up**
 
 Visit the following site [readthedocs.org](https://readthedocs.org/) and [login](https://readthedocs.org/accounts/login/). Scroll down and select "sign in with GitHub". 
 
