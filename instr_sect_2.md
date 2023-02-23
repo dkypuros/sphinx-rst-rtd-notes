@@ -167,3 +167,21 @@ The website can be viewed here in your browser. The sphinx application places th
 ```
 file:///Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/build/html/index.html
 ```
+
+Bonus:
+
+**Sphinx Copy Button**
+
+Install
+
+```
+pip install sphinx-copybutton
+```
+
+update the conf.py
+
+```
+extensions = [
+     'sphinx_copybutton'
+ ]
+```
