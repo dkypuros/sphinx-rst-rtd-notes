@@ -50,6 +50,13 @@ So for me the command I will use from this summary is
 ```
 make html
 ```
+
+**Tip**
+You can force rebuild the html via the follwoing command.
+```
+make clean
+```
+
 Take a look around and explore the new directory structure and files created during the **quickstart** process. Notice the two folders **build** and **source**. That's the seperation of the of the source and build directories we selected earlier in the process.
 
 see output here and the image below:
