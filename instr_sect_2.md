@@ -168,7 +168,7 @@ The website can be viewed here in your browser. The sphinx application places th
 file:///Users/davidkypuros/Documents/GitHub-projects/openshift-lab-001/docs/build/html/index.html
 ```
 
-Bonus:
+## Bonus:
 
 **Sphinx Copy Button**
 
@@ -184,4 +184,28 @@ update the conf.py
 extensions = [
      'sphinx_copybutton'
  ]
+```
+
+**Auto Build HTML**
+
+Install
+
+```
+pip install sphinx-autobuild
+```
+
+Change directory and run:
+
+```
+cd /Users/davidkypuros/Documents/GitHub-projects/dhcp-dns-idm-lab
+
+```
+"docs/source" being the location of the conf.py
+```
+sphinx-autobuild docs/source docs/_build/html
+```
+
+Take a look at the output to visit the local webserver.
+```
+http://127.0.0.1:8000
 ```
