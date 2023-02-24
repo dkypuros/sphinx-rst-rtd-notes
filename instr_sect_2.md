@@ -186,6 +186,20 @@ extensions = [
  ]
 ```
 
+Make sure to tell ReadTheDocs.org that you need it to load the "copy-button" extention by adding the following file
+
+```
+cd /home/marz/Documents/GitHub-projects/dhcp-dns-idm-lab
+touch requirements.txt
+```
+
+Add the following contents:
+[More info](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
+
+```
+sphinx_copybutton
+```
+
 **Auto Build HTML**
 
 Install
