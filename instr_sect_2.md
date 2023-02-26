@@ -189,7 +189,7 @@ extensions = [
 Make sure to tell ReadTheDocs.org that you need it to load the "copy-button" extention by adding the following file
 
 ```
-cd /home/marz/Documents/GitHub-projects/dhcp-dns-idm-lab
+cd /home/marz/Documents/GitHub-projects/dhcp-dns-idm-lab/docs
 touch requirements.txt
 ```
 
