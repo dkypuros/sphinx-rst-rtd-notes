@@ -7,8 +7,12 @@
 ```
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+git clone https://github.com/dkypuros/sphinx-rst-rtd-sample-project.git
+
+#type in your username
+#paste password in the form of the token generated from account > settings > developer settings > traditional token
+
 git config --global credential.helper store
-git push
 git config --global --list
 ```
 
@@ -27,6 +31,7 @@ sphinx-rst-rtd-sample-project
 Create Clone locally
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt est at augue mattis, eu sagittis lectus iaculis. Praesent sit amet nibh ut diam tincidunt pellentesque vel eu ex. Sed in nulla tincidunt, pulvinar tellus et, euismod diam.
 
+If you haven't done this already:
 ```
 cd GitHub-projects/
 git clone https://github.com/dkypuros/sphinx-rst-rtd-sample-project.git
