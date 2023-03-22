@@ -15,7 +15,7 @@ Let's make sure we're in the correct directory. Next install the **venv module**
 cd sphinx-rst-rtd-sample-project/
 python3 -m pip install --user virtualenv
 python3 -m venv env
-source env/bin/activate
+source venv/bin/activate
 ```
 
 Once you are in your virtual environment (look for parenthesis on the far left of the command line) create a directory called **docs**. Next install the **Sphinx documentation generator** package via pip, the package installer for Python.
