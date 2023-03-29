@@ -14,7 +14,7 @@ Let's make sure we're in the correct directory. Next install the **venv module**
 ```
 cd sphinx-rst-rtd-sample-project/
 python3 -m pip install --user virtualenv
-python3 -m venv env
+python3 -m venv venv
 source venv/bin/activate
 ```
 
