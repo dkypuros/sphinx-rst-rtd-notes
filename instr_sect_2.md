@@ -217,6 +217,7 @@ cd /Users/davidkypuros/Documents/GitHub-projects/dhcp-dns-idm-lab
 "docs/source" being the location of the conf.py
 ```
 sphinx-autobuild docs/source docs/build/html
+sphinx-autobuild --host 0.0.0.0 --port 8000 docs/source docs/build/html
 ```
 
 Take a look at the output to visit the local webserver.
