@@ -38,7 +38,7 @@ pip install sphinx-autobuild
 
 ```bash
 cd ..
-sphinx-autobuild --host 0.0.0.0 --port 8000 docs/source docs/build/html
+sphinx-autobuild --host 0.0.0.0 --port 8080 docs/source docs/build/html
 ```
 
 ## Finally
