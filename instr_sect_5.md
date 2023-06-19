@@ -9,7 +9,6 @@ pip --version
 ```
 
 ```bash
-cd sphinx-rst-rtd-sample-project/
 python3 -m pip install --user virtualenv
 python3 -m venv venv
 source venv/bin/activate
