@@ -29,3 +29,12 @@ pip install sphinx-copybutton
 ```bash
 make html
 ```
+
+```bash
+pip install sphinx-autobuild
+```
+
+```bash
+sphinx-autobuild --host 0.0.0.0 --port 8000 docs/source docs/build/html
+```
+
