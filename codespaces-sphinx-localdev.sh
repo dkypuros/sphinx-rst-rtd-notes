@@ -14,8 +14,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Create a new directory named docs and navigate into it
-echo "Setting up docs directory..."
-mkdir docs
+echo "move into docs directory..."
 cd docs
 
 # Install sphinx
