@@ -1,4 +1,9 @@
-Special section for using GitHub CodeSpaces
+## Special section for using GitHub CodeSpaces
+
+### You can just run this script
+
+bash <(curl -s https://raw.githubusercontent.com/dkypuros/sphinx-rst-rtd-notes/main/codespaces-sphinx-localdev.sh)
+
 
 see: 
 https://docs.github.com/en/codespaces/developing-in-codespaces/forwarding-ports-in-your-codespace
