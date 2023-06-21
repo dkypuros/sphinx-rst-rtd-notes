@@ -25,6 +25,10 @@ pip install sphinx
 echo "Installing sphinx themes and plugins..."
 pip install sphinx-rtd-theme
 pip install sphinx-copybutton
+pip install sphinxcontrib-youtube 
+pip install sphinxcontrib-mermaid 
+pip install sphinx-book-theme 
+pip install sphinx-material
 
 # Build the project
 echo "Building the project..."
