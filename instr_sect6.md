@@ -1,6 +1,7 @@
 
 ## Special Advanced Sphinx Stuff - That I love
 
+### Only Tested with "sphinx_rtd_theme"
 
 _templates/page.html
 -----------------------------
