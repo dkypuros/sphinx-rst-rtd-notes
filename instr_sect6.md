@@ -39,6 +39,11 @@ _static/custom.css
 conf.py
 ----------------
 
+def setup(app):
+    app.add_css_file('custom.css')
+
+Sphinx page
+--------------------------
 .. container:: toggle
 
     .. container:: header
