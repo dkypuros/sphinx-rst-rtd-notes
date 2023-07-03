@@ -26,6 +26,10 @@ pip install sphinx
 ```
 
 ```bash
+sphinx-quickstart
+```
+
+```bash
 pip install sphinx-rtd-theme
 ```
 
